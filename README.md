@@ -6,7 +6,7 @@
 
   ``bower install``
 
-### 2-. To compile SCSS files:
+### 2-. To compile SCSS files, (in your terminal):
 
   ``gulp``
   
