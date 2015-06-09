@@ -1,8 +1,13 @@
 # template-project
 
-### In your terminal:
+### 1-. In your terminal:
 
   ``npm install``
 
+  ``bower install``
 
-  ``npm install``
+### 2-. To compile SCSS files:
+
+  ``gulp``
+  
+  
