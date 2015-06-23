@@ -5,11 +5,9 @@ var gulp = require('gulp'),
     minifycss = require('gulp-minify-css'),
     rename = require('gulp-rename'),
     notify = require('gulp-notify');
-    //sourcemaps = require('gulp-sourcemaps');
 
 gulp.task('default', ['watch']);
 
-// Styles
 // Styles
 gulp.task('sass', function() {
   return gulp.src('scss/main.scss')
